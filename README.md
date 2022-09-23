@@ -2,9 +2,9 @@
 
 Thank you for visiting my GitHub Profile! 
 
-🎓 My current goal is to become a Front End Developer, to turn your concepts and ideias into responsive and interactive web pages. 
+🎓 My current goal is to become a **Front End Developer**, to turn your concepts and ideias into responsive and interactive web pages. 
 
-🌱 I’m currently learning JavaScript, TypeScript and React. 
+🌱 I’m currently learning **JavaScript**, **TypeScript** and **React**. 
 
 📫 You can message me on [LinkedIn](https://www.linkedin.com/in/zingarelli/) or send me an [e-mail](mailto:zingarelli.m@gmail.com). 
 
