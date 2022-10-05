@@ -18,7 +18,7 @@ Although I'm documenting my recent projects in English, most of them are in Port
 **HTML | CSS**
 - [Personal Website](https://github.com/zingarelli/desafios-bootcamp-TQI-DIO/tree/main/HTML_CSS): responsive layout, with animated menu and background, and hover effects for buttons and images. [View it online](https://desafios-bootcamp-tqi-dio.vercel.app). 
 
-- [Alura Books](https://github.com/zingarelli/alura-books): responsive home page for a fictitious e-commerce bookstore. Here we applied "mobile first design", used flexbox to position elements, and media queries to create layouts for larger screens (1024 and 1728 pixels). There's also a form page, in which we use JavaScript to fetch address data from an API to autofill some inputs. [View it online](https://zingarelli.github.io/alura-books/).
+- [Alura Books](https://github.com/zingarelli/alura-books): responsive home page for a fictitious e-commerce bookstore. Here we applied "mobile first design", used flexbox to position elements, and media queries to create layouts for larger screens (1024 and 1728 pixels). 
 
 ---
 
@@ -28,6 +28,8 @@ Although I'm documenting my recent projects in English, most of them are in Port
 - [Robotron](https://github.com/zingarelli/robotron-2000): in this project I learned how to manipulate the DOM using JavaScript. It's a responsive and interactive page where the user can personalize their own robot (Robotron), by selecting its color and choosing how many of different parts the robot will have. [View it online](https://robotron2000-js-dom.vercel.app).
 
 - [Say the number](https://github.com/zingarelli/say-the-secret-number): a simple game where the user has to guess the number by saying it aloud. It was used the Web Speech API for speech recognition. [View it online](https://zingarelli.github.io/say-the-secret-number/) (use Google Chrome for a better support of the Web Speech API).
+
+- [Alura Books](https://github.com/zingarelli/alura-books): Beside the home page described in the HTML | CSS topic, Alura Books also has a form page and a books page. In form page, we use JavaScript to fetch address data from an API to autofill some inputs. In books page, we use JavaScript to work with arrays. [View it online](https://zingarelli.github.io/alura-books/).
 
 ---
 
