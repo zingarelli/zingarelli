@@ -18,7 +18,7 @@ Although I'm documenting my recent projects in English, most of them are in Port
 **HTML | CSS**
 - [Personal Website](https://github.com/zingarelli/desafios-bootcamp-TQI-DIO/tree/main/HTML_CSS): responsive layout, with animated menu and background, and hover effects for buttons and images. [View it online](https://desafios-bootcamp-tqi-dio.vercel.app). 
 
-- [Alura Books](https://github.com/zingarelli/alura-books): responsive home page for a fictitious e-commerce bookstore. Here we applied "mobile first design", used flexbox to position elements, and media queries to create layouts for larger screens (1024 and 1728 pixels). 
+- [Alura Books](https://github.com/zingarelli/alura-books): responsive home page for a fictitious e-commerce bookstore. Here we applied "mobile first design", used flexbox to position elements, and media queries to create layouts for larger screens (1024 and 1728 pixels). [View it online](https://zingarelli.github.io/alura-books/).
 
 ---
 
