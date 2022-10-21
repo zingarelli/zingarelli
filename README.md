@@ -29,7 +29,7 @@ Although I'm documenting my recent projects in English, most of them are in Port
 
 - [Say the number](https://github.com/zingarelli/say-the-secret-number): a simple game where the user has to guess the number by saying it aloud. It was used the Web Speech API for speech recognition. [View it online](https://zingarelli.github.io/say-the-secret-number/) (use Google Chrome for a better support of the Web Speech API).
 
-- [Alura Books](https://github.com/zingarelli/alura-books): Beside the home page described in the HTML | CSS topic, Alura Books also has a form page and a books page. In form page, we use JavaScript to fetch address data from an API to autofill some inputs. In books page, we use JavaScript to work with arrays. [View it online](https://zingarelli.github.io/alura-books/).
+- [Alura Books](https://github.com/zingarelli/alura-books): Beside the home page described in the HTML | CSS topic, Alura Books also has a [form page](https://zingarelli.github.io/alura-books/form.html) and a [books page](https://zingarelli.github.io/alura-books/livros.html). In form page, we use JavaScript to fetch address data from an API to autofill some inputs. In books page, we use JavaScript to work with arrays (using functions like `filter()`, `map()` and `sort()`). [View it online](https://zingarelli.github.io/alura-books/).
 
 ---
 
