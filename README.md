@@ -39,9 +39,11 @@ Although I'm documenting my recent projects in English, most of them are in Port
 
 ---
 
-**TypeScript**
+**TypeScript | Angular**
 
 - [Alura Broker](https://github.com/zingarelli/alura-broker): my first project developed in TypeScript, it's a simple page to place and view stock orders. It's also possible to import data from API (but you need to install and run the server locally). [View it online](https://zingarelli.github.io/alura-broker/app/dist/index.html).
+
+- [Memoteca](https://github.com/zingarelli/memoteca): this application was developed in order to learn the basics of Angular 14. In it, you can save a thought/favorite quote and also view a mural with saved thoughts, which you can edit or delete.
 
 ---
 
