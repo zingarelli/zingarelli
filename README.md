@@ -37,7 +37,7 @@ Although I'm documenting my recent projects in English, most of them are in Port
 
 - [GitHub Profile Search](https://github.com/zingarelli/desafios-bootcamp-TQI-DIO/tree/main/react-js): this was a project developed to learn how to work with GitHub API and how to use Styled Components. You can type a GitHub username and the page will show some of the user's information and repos (styled as cards). [View it online](https://desafios-bootcamp-tqi-dio-ivory.vercel.app).
 
-- [Place Your Order](https://github.com/zingarelli/place-your-order): application for a fast-food venue, in which the customer can choose items, see them in the basket and then checkout. The checkout screen show how much the customer is saving from promotions applied to the items. Information regarding items and promotions are retrieved from an API.
+- [Place Your Order](https://github.com/zingarelli/place-your-order): application for a fast-food venue, in which the customer can choose items, see them in the basket and then checkout. The checkout screen shows how much the customer is saving from promotions applied to the items. Information regarding items and promotions are retrieved from an API.
 
 ---
 
