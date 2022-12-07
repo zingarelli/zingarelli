@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-[Ver esta página em Português](#página-em-português)
+[Ver esta página em Português](#bem-vindo)
 
 Thank you for visiting my GitHub Profile! 
 
@@ -51,8 +51,11 @@ Although I'm documenting my recent projects in English, most of them are in Port
 
 - [Churn rate analysis](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): this project was part of a Data Science Challenge proposed by Alura. It consisted in a full data analysis for a fictitious telecom company, regarding their customer churn rate. I was challenged to clean the data, create plots to verify variables that could help understand which customers were evading the company and then create two Machine Learning models to classify customers who could potentially cancel their voice/internet plans.
 
-### Página em português
-Olá! Obrigado por visitar meu perfil! 
+---
+---
+
+### Bem-vindo
+Obrigado por visitar meu perfil! 
 
 🎓 Meu objetivo é me tornar um **desenvolvedor front end**, transformando seus conceitos e ideias em páginas web responsivas e interativas. 
 
