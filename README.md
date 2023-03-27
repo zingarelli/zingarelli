@@ -1,6 +1,6 @@
 ## Bem-vindo 👋
 
-[Click here to see this page in English.](#welcome-👋)
+[Click here to see this page in English.](#welcome)
 
 Obrigado por visitar meu perfil! 
 
@@ -44,7 +44,7 @@ Para te ajudar a navegar dentre eles, criei abaixo um portifólio com aqueles qu
 
 ---
 
-## Welcome! 👋
+## Welcome!
 
 Thank you for visiting my GitHub Profile! 
 
