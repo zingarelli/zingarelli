@@ -36,6 +36,8 @@ Para te ajudar a navegar dentre eles, criei abaixo um portifólio com aqueles qu
 
 - [Alura Broker](https://github.com/zingarelli/alura-broker): meu primeiro projeto desenvolvido em TypeScript, é uma página simples em que o usuário pode adicionar e visualizar ordens de ações (simulação da bolsa de valores). Também é possível importar os dados de uma API (é necessário rodar o servidor localmente). [Veja o projeto online](https://zingarelli.github.io/alura-broker/app/dist/index.html).
 
+- [Sorteador de Amigo Secreto](https://github.com/zingarelli/secret-santa-raffler): projeto desenvolvido utilizando o princípio de TDD (Test-Driven Development) e o Recoil para gerenciar estados. Faz o sorteio automático de uma lista de amigo secreto. [Veja o projeto online](https://secret-santa-raffler-zingarelli.vercel.app).
+
 - [Memoteca](https://github.com/zingarelli/memoteca): este aplicativo foi criado para eu aprender o básico de Angular 14. Nele, o usuário pode salvar suas citações e pensamentos favoritos, e também vê-los em um mural, no qual também é possível editar e apagar pensamentos/citações.
 
 #### Data Science
@@ -81,6 +83,8 @@ In order to help you, below you can see a portfolio with the projects I consider
 #### TypeScript | Angular
 
 - [Alura Broker](https://github.com/zingarelli/alura-broker): my first project developed in TypeScript, it's a simple page to place and view stock orders. It's also possible to import data from API (but you need to install and run the server locally). [View it online](https://zingarelli.github.io/alura-broker/app/dist/index.html).
+
+- [Secret Santa Raffler](https://github.com/zingarelli/secret-santa-raffler): project developed following the TDD (Test-Driven Development) principles, and Recoil for state management. It automatically performs a secret santa raffle. [View it online](https://secret-santa-raffler-zingarelli.vercel.app).
 
 - [Memoteca](https://github.com/zingarelli/memoteca): this application was developed in order to learn the basics of Angular 14. In it, you can save a thought/favorite quote and also view a mural with saved thoughts, which you can edit or delete.
 
