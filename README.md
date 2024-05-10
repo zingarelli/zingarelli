@@ -8,6 +8,8 @@ Obrigado por visitar meu perfil!
 
 🌱 Tenho me aprofundado continuamente em **React** e **TypeScript**, e aos pouquinhos estou olhando para o Back End com **Node.js**.
 
+🙏 A maior parte das minhas anotações de estudos e códigos estão organizados e disponíveis [neste repositório](https://github.com/zingarelli/anotacoes-estudo).
+
 📫 Você pode entrar em contato comigo pelo  [LinkedIn](https://www.linkedin.com/in/zingarelli/) ou me enviar um [e-mail](mailto:zingarelli.m@gmail.com). 
 
 ## Portfólio 🖥️
