@@ -36,7 +36,9 @@ Abaixo deixo uma lista dos projetos que eu considero mais importantes, organizad
 
 ### Data Science
 
-- [Análise de *churn rate*](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): também tenho interesse por Data Science, e neste projeto faço uma limpeza, formatação e análise de dados completa para uma companhia fictícia de telecomunicações, baseado em dados de *churn rate* (taxa de evasão) de seus clientes. Além disso são criados dois modelos de Machine Learning para classificar os clientes que potencialmente poderiam cancelar seus planos.
+- [Introdução a Machine Learning - Classificação](https://github.com/zingarelli/Python_ML_Alura): também tenho interesse por Data Science, e neste repositório disponibilizo diversos Jupyter notebooks com minhas anotações sobre os fundamentos de Machine Learning voltado a problemas de classificação, passando por toda uma pipeline de obter os dados, formatá-los e análisá-los, até criar modelos, validá-los e comparar com outros modelos.
+
+- [Análise de *churn rate*](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): neste projeto faço uma limpeza, formatação e análise de dados completa para uma companhia fictícia de telecomunicações, baseado em dados de *churn rate* (taxa de evasão) de seus clientes. Além disso são criados dois modelos de Machine Learning para classificar os clientes que potencialmente poderiam cancelar seus planos.
 
 ---
 
@@ -78,4 +80,6 @@ Below, you will find a list with the projects that I consider most important, or
 
 ### Data Science
 
-- [Churn rate analysis](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): I'm also interested in Data Science. In this project, I clean and format the data, and perform a comprehensive data analysis for a fictional telecom company based on customer churn rate data. Additionally, two machine learning models are created to classify customers who may potentially cancel their plans.
+- [Introduction to Machine Learning - Classification](https://github.com/zingarelli/Python_ML_Alura): I'm also interested in Data Science, and in this repository I provide several Jupyter notebooks with my notes (in Portuguese only) on the fundamentals of Machine Learning for classification problems, covering the entire pipeline from obtaining the data, formatting and analyzing it, to creating models, validating and comparing them with other models.
+
+- [Churn rate analysis](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): in this project, I clean and format the data, and perform a comprehensive data analysis for a fictional telecom company based on customer churn rate data. Additionally, two machine learning models are created to classify customers who may potentially cancel their plans.
