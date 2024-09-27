@@ -6,9 +6,9 @@ Obrigado por visitar meu perfil!
 
 🎓 Sou desenvolvedor Front End, trabalhando principalmente com **React**. 
 
-🛠️ Minha stack atual: HTML, CSS, JavaScript, TypeScript, React, D3, Python.
+🛠️ Minha stack atual: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
 
-🌱 Atualmente estou aprendendo NextJS.
+🌱 Atualmente estou me aprofundando em NextJS e testes.
 
 🙏 A maior parte das minhas anotações de estudos e códigos estão organizados e disponíveis [neste repositório](https://github.com/zingarelli/anotacoes-estudo).
 
@@ -24,15 +24,15 @@ Abaixo há uma lista com meus projetos mais importantes/favoritos, que mostram a
 
 - [Jogo da memória de One Piece](https://github.com/zingarelli/desafios-bootcamp-TQI-DIO/tree/main/JavaScript): um dos meus favoritos! As cartas são animadas por meio de propriedades CSS, e o controle do tabuleiro e do placar são via JavaScript. [Veja (e jogue) online](https://bootcamp-tqi-dio-javascript.vercel.app).
 
-- [CodeChella](https://github.com/zingarelli/codechella): atualmente, este é meu maior projeto público, para divulgação de um festival de música fictício. Desenvolvido em React, utilizei Context API, React Router e alguns hooks, além de Jest para testes. [Veja o projeto online](https://codechella-puce.vercel.app).
+- [CodeChella](https://github.com/zingarelli/codechella): site de divulgação de um festival de música fictício. É meu projeto React mais completo, em que utilizo Context API, React Router e alguns hooks, além de Jest para testes. [Veja o projeto online](https://codechella-puce.vercel.app).
 
-- [Sorteador de Amigo Secreto](https://github.com/zingarelli/secret-santa-raffler): projeto desenvolvido em React/TypeScript, utilizando o princípio de TDD (Test-Driven Development), e gerenciamento de estados feito com a biblioteca Recoil. Faz o sorteio automático de uma lista de amigo secreto. [Veja o projeto online](https://secret-santa-raffler-zingarelli.vercel.app).
+- [Alura Books](https://github.com/zingarelli/alura-books-typescript): resultado da minha formação avançada em React e integração com APIs, este projeto implementa novas telas para um e-commerce fictício de livros, abordando diferentes tecnologias para o fetch de dados: Axios, React Query e Apollo Client com GraphQL.
+
+- [Code Connect](https://github.com/zingarelli/code-connect): Este é meu primeiro projeto feito em NextJS 14 com uma abordagem FullStack. Nele, utilizo Docker para subir um banco Postgres, e o Prisma para fazer as consultas e gerenciamento do banco via JavaScript. [Veja o projeto online](https://code-connect-eosin.vercel.app/).
 
 - [Memoteca](https://github.com/zingarelli/memoteca): este é um projeto em que dei meus primeiros passos no Angular 14. Nele, o usuário pode salvar suas citações e pensamentos favoritos, e também vê-los em um mural, no qual também é possível editar e apagar pensamentos/citações.
 
 - [Gráfico de dispersão](https://github.com/zingarelli/IrisScatterPlotD3): dá pra criar gráficos com JavaScript? Dá sim! Neste projeto utilizo React e a biblioteca [D3](https://d3js.org) para criar um gráfico de dispersão com os dados do dataset Iris, bem conhecido na área de visualização de dados. [Veja o projeto online](https://iris-scatter-plot-d3.vercel.app).
-
-- [Alura Books](https://github.com/zingarelli/alura-books-typescript): resultado da minha formação avançada em React e integração com APIs, este projeto implementa novas telas para um e-commerce fictício de livros, abordando diferentes tecnologias para o fetch de dados: Axios, React Query e Apollo Client com GraphQL.
 
 ### Outras tecnologias 
 
@@ -50,9 +50,9 @@ Thank you for visiting my GitHub Profile!
 
 🎓 I am a **Front End** developer, primarily working with  **React**. 
 
-🛠️ My current stack: HTML, CSS, JavaScript, TypeScript, React, D3, Python.
+🛠️ My current stack: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
 
-🌱 Right now I'm learning NextJS.
+🌱 Right now I'm deepening my knowledge in NextJS and testing libraries.
 
 📫 You can message me on [LinkedIn](https://www.linkedin.com/in/zingarelli/) or send me an [e-mail](mailto:zingarelli.m@gmail.com). 
 
@@ -68,15 +68,15 @@ Below, you will find a list of my most important projects, showcasing the evolut
 
 - [One Piece Memory Game](https://github.com/zingarelli/desafios-bootcamp-TQI-DIO/tree/main/JavaScript): my favorite one! It's based on One Piece characters, and uses CSS to animate the cards and JavaScript to control the board and the score. [View (and play!) it online](https://bootcamp-tqi-dio-javascript.vercel.app).
 
-- [CodeChella](https://github.com/zingarelli/codechella):  currently, this is my largest public project, designed to promote a fictional music festival. Developed in React, using Context API, React Router, and some hooks, along with Jest for testing. [View it online](https://codechella-puce.vercel.app).
+- [CodeChella](https://github.com/zingarelli/codechella):  website designed to promote a fictional music festival. It's currently my most complete React project, in which using Context API, React Router, and some hooks, along with Jest for testing. [View it online](https://codechella-puce.vercel.app).
 
-- [Secret Santa Raffler](https://github.com/zingarelli/secret-santa-raffler): project developed in React/TypeScript, following TDD (Test-Driven Development) principles, and Recoil for state management. It automatically performs a secret santa raffle. [View it online](https://secret-santa-raffler-zingarelli.vercel.app).
+- [Alura Books](https://github.com/zingarelli/alura-books-typescript): this is the result of the advanced courses I took on React and API integration. The project implements new screens for a fictional bookstore, covering different data fetching technologies: Axios, React Query and Apollo Client with GraphQL.
+
+- [Code Connect](https://github.com/zingarelli/code-connect): my first FullStack project, using NextJS 14. In it, I use Docker to run a Postgres database, and Prisma for data management and queries via JavaScript. [View it online](https://code-connect-eosin.vercel.app/).
 
 - [Memoteca](https://github.com/zingarelli/memoteca): I've learned the basics of Angular 14 while developing this app. In it, you can save a thought/favorite quote and also view a mural with saved thoughts, which you can edit or delete.
 
 - [Iris scatter plot](https://github.com/zingarelli/IrisScatterPlotD3): is it possible to create graphics with JavaScript? It sure is! In this project I use React and the [D3 library](https://d3js.org) to create a scatter plot of the Iris dataset, famous in the field of data visualization. [View it online](https://iris-scatter-plot-d3.vercel.app).
-
-- [Alura Books](https://github.com/zingarelli/alura-books-typescript): this is the result of the advanced courses I took on React and API integration. The project implements new screens for a fictional bookstore, covering different data fetching technologies: Axios, React Query and Apollo Client with GraphQL.
 
 ### Other technologies
 
