@@ -4,9 +4,9 @@
 
 Obrigado por visitar meu perfil! 
 
-🎓 Sou desenvolvedor Front End, trabalhando principalmente com **React**. E também um entusiasta de Dados e Machine Learning
+🎓 Sou desenvolvedor Front End, trabalhando principalmente com **React**. E também um entusiasta de Dados e Machine Learning.
 
-🛠️ Minha stack atual: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
+🛠️ Minha stack atual: HTML, CSS, JavaScript, TypeScript, React, Next, Python, SQL, Git e Scrum.
 
 🌱 Atualmente estou mergulhando fundo em JavaScript, e dando meus passos em NextJS.
 
@@ -52,7 +52,7 @@ Thank you for visiting my GitHub Profile!
 
 🎓 I am a **Front End** developer, primarily working with  **React**. I'm also a Data Science/Machine Learning enthusiast.
 
-🛠️ My current stack: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
+🛠️ My current stack: HTML, CSS, JavaScript, TypeScript, React, Next, Python, SQL, Git and Scrum.
 
 🌱 Right now I'm advancing my studies in JavaScript and taking my first steps with NextJS.
 
