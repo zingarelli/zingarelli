@@ -4,11 +4,13 @@
 
 Obrigado por visitar meu perfil! 
 
-🎓 Sou desenvolvedor Front End, trabalhando principalmente com **React**. 
+🎓 Sou desenvolvedor Front End, trabalhando principalmente com **React**. E também um entusiasta de Dados e Machine Learning
 
 🛠️ Minha stack atual: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
 
-🌱 Atualmente estou me aprofundando em NextJS e testes.
+🌱 Atualmente estou mergulhando fundo em JavaScript, e dando meus passos em NextJS.
+
+📈 A longo prazo, meu objetivo é me tornar um Cientista de Dados.
 
 🙏 A maior parte das minhas anotações de estudos e códigos estão organizados e disponíveis [neste repositório](https://github.com/zingarelli/anotacoes-estudo).
 
@@ -16,7 +18,7 @@ Obrigado por visitar meu perfil!
 
 ## Portfólio 🖥️
 
-A maioria dos meus repositórios são baseados em projetos desenvolvidos nos cursos e atividades que eu faço na [Alura](https://www.alura.com.br), uma escola online de cursos de tecnologia.
+A maioria dos meus repositórios são baseados em projetos e atividades desenvolvidos nos cursos que fiz na [Alura](https://www.alura.com.br), uma escola online de cursos de tecnologia.
 
 Abaixo há uma lista com meus projetos mais importantes/favoritos, que mostram a evolução do meu aprendizado. Ao clicar no nome de um projeto, você vai para o seu respectivo repositório. Caso haja uma página online, eu também coloco o link para ela.
 
@@ -38,7 +40,7 @@ Abaixo há uma lista com meus projetos mais importantes/favoritos, que mostram a
 
 Além do Front End, tenho interesse na área de Dados. Em meus estudos de Python, criei dois repositórios bem legais:
 
-- [Introdução a Machine Learning - Classificação](https://github.com/zingarelli/Python_ML_Alura): aqui disponibilizo diversos Jupyter notebooks com minhas anotações sobre os fundamentos de Machine Learning voltado a problemas de classificação, passando por toda uma pipeline de obter os dados, formatá-los e análisá-los, até criar modelos, validá-los e compará-los entre si.
+- [Introdução a Machine Learning - Classificação](https://github.com/zingarelli/Python_ML_Alura): aqui disponibilizo diversos Jupyter notebooks com minhas anotações sobre os fundamentos de Machine Learning voltado a problemas de classificação, passando por toda a pipeline de obter os dados, formatá-los e análisá-los, até criar modelos, validá-los e compará-los entre si.
 
 - [Análise de *churn rate*](https://github.com/zingarelli/Alura_Voz-Data_Science_Challenge): neste projeto faço uma limpeza, formatação e análise de dados completa para uma companhia fictícia de telecomunicações, baseado em dados de *churn rate* (taxa de evasão) de seus clientes. Além disso são criados dois modelos de Machine Learning para classificar os clientes que potencialmente poderiam vir a cancelar seus planos.
 
@@ -48,19 +50,21 @@ Além do Front End, tenho interesse na área de Dados. Em meus estudos de Python
 
 Thank you for visiting my GitHub Profile! 
 
-🎓 I am a **Front End** developer, primarily working with  **React**. 
+🎓 I am a **Front End** developer, primarily working with  **React**. I'm also a Data Science/Machine Learning enthusiast.
 
 🛠️ My current stack: HTML, CSS, JavaScript, TypeScript, React, Next, Python, MySQL.
 
-🌱 Right now I'm deepening my knowledge in NextJS and testing libraries.
+🌱 Right now I'm advancing my studies in JavaScript and taking my first steps with NextJS.
+
+📈 My long-term plan is to become a Data Scientist.
 
 📫 You can message me on [LinkedIn](https://www.linkedin.com/in/zingarelli/) or send me an [e-mail](mailto:zingarelli.m@gmail.com). 
 
 ## Portifolio 🖥️
 
-Most of my repos are based on projects developed in courses I take at [Alura](https://www.alura.com.br), a brazilian online school for technology courses. 
+Most of my repos are based on projects developed in courses I took at [Alura](https://www.alura.com.br), a brazilian online school for technology courses. 
 
-Although I'm documenting my recent projects in English, most of them are in Portuguese. If any of those in Portuguese pique your interest and you want to know more about them, please contact me.
+Although I'm documenting my recent projects in English, most of them are in Portuguese. If any of those projects in Portuguese pique your interest and you want to know more about them, please contact me.
 
 Below, you will find a list of my most important projects, showcasing the evolution of my learning skills. By clicking on a project's name, you will be redirected to its repository. If there is an online page associated to it, I have also included the link to it.
 
